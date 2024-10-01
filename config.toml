@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Iván Ruipérez'
+theme = 'hyde'
+
+[params]
+  description = "He creado este blog para el módulo de Implementación Web"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/IvanRuiperezB/"},
+  ]
