@@ -17,5 +17,6 @@ Otros álbumes que me gustan de Kanye West son:
 * Yeezus
 * 808s & Heartbreak
 * The life of Pablo
+* Vultures 1
 
 En este enlace puedes ver su página en [Apple Music](https://music.apple.com/es/artist/kanye-west/2715720).
