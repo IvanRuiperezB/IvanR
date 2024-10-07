@@ -6,7 +6,7 @@ draft: false
 
 ## Mis películas favoritas
 
-Mis películas favoritas con las de **Dune**, dirigidas por *Denis Villeneuve*. Están basadas en los libros de Dune del escritor `Frank Herbert`.
+Mis películas favoritas son las de **Dune**, dirigidas por *Denis Villeneuve*. Están basadas en los libros de Dune del escritor `Frank Herbert`.
 
 Me han gustado tanto que me he comprado los libros para leerlos.
 
